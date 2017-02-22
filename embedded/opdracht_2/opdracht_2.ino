@@ -1,8 +1,8 @@
-#define LED 13
+#define LED    13
 #define BUTTON 12
 
 int button_state = HIGH;
-int led_state = LOW;
+int led_state    = LOW;
 
 void setup()
 {
@@ -35,4 +35,3 @@ void loop()
 
   digitalWrite(LED, led_state);
 }
-
