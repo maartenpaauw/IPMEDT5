@@ -1,0 +1,3 @@
+[submodule "server/opdrachten"]
+	path = server/opdrachten
+	url = git@github.com:maartenpaauw/IPMEDT5_laravel_opdrachten.git
